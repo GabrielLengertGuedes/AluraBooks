@@ -291,15 +291,22 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-    <script>
-        const swiper = new Swiper('.swiper', {
+<script>
+    document.querySelectorAll('.swiper').forEach(swiperContainer => {
+        new Swiper(swiperContainer, {
             spaceBetween: 10,
             slidesPerView: 3,
-            pagination:{
-                el:'.swiper-pagination',
-                type: 'bullets',
+            pagination: {
+                el: swiperContainer.querySelector('.swiper-pagination'),
+                type: 'bullets'
             },
+            navigation: {
+                nextEl: swiperContainer.querySelector('.swiper-button-next'),
+                prevEl: swiperContainer.querySelector('.swiper-button-prev')
+            }
         });
-    </script>
+    });
+</script>
+
 </body>
 </html>
