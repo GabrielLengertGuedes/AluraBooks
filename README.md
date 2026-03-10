@@ -15,7 +15,7 @@ O projeto simula uma página inicial de e-commerce com menu de navegação, barr
 
 - Estruturação semântica com HTML5
 - Estilização com CSS3
-- Organização visual com Flexbox
+- Layout responsivo utilizando Flexbox
 - Responsividade com `@media`
 - Abordagem mobile-first
 - Menu hambúrguer com HTML e CSS
