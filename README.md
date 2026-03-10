@@ -42,40 +42,7 @@ AluraBooks/
 ├── styles/
 │   └── style.css
 └── assets/
-    ├── Alura.svg
-    ├── AluraEmpresas.svg
-    ├── AluraLATAM.svg
-    ├── AluraLingua.svg
-    ├── AluraStart.svg
-    ├── Angular.svg
-    ├── ApacheKafka.svg
-    ├── Arquitetura.svg
-    ├── Caelum.svg
-    ├── CarreiraSemFronteira.svg
-    ├── CasaDoCodigo.svg
-    ├── Email.svg
-    ├── Favoritos.svg
-    ├── GUJ.svg
-    ├── HipstersJobs.svg
-    ├── HipstersTech.svg
-    ├── Javascript.svg
-    ├── LayersTech.svg
-    ├── LikeABoss.svg
-    ├── Logo.svg
-    ├── Lupa.svg
-    ├── Menu.svg
-    ├── MenuHamburger.svg
-    ├── MusicDot.svg
-    ├── Nodejs.svg
-    ├── Perfil-escritora 1.svg
-    ├── PM3.svg
-    ├── Portugol.svg
-    ├── ReactNative.svg
-    ├── Sacola.svg
-    ├── ScubaDev.svg
-    ├── Star 1.svg
-    ├── Tuning.svg
-    └── Usuario.svg
+    └── imagens e ícones do layout
 ```
 
 ## Como executar o projeto
